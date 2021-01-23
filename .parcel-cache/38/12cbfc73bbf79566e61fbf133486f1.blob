@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAI","sources":["./src/background/index.ts"],"sourcesContent":["console.log('background script')\n"],"names":["console","log"],"version":3,"file":"index.js.map"}

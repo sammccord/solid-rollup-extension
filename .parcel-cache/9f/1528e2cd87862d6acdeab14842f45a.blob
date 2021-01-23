@@ -1,0 +1,1 @@
+{"background":{"scripts":["a3beaf387b48f0d81af8b77e9a68b913"]},"content_scripts":[{"js":["c1f9fc6eea1f79b07c69c7ae830e7256"],"matches":["https://*/*","http://*/*"]}],"browser_action":{"default_popup":"d504405d56ecf71d78c9cac9b343e2b0"}}

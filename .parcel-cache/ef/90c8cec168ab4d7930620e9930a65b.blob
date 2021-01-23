@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1000, initial-scale=1.0">
+    <title>Popup Page</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="a4c42a24153de803b3ebb8f8e8b63bb4"></script>
+  </body>
+</html>
